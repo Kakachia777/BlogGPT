@@ -1,5 +1,5 @@
 # 🦜🔗✏️BlogGPT
-BlogGPT is a fully automated AI blog writer that uses LangChain and GPT type LLMs for topic selection and content generation. The content is published to [this blog](https://ruankie.github.io/ecrivai-blog-hugo/)
+BlogGPT is a fully automated AI blog writer that uses LangChain and GPT type LLMs for topic selection and content generation.
 
 <details closed><summary>Star History</summary>
     
