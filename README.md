@@ -6,7 +6,7 @@ BlogGPT is a fully automated AI blog writer that uses LangChain and GPT type LLM
 1. 🐍 You will need a working install of [`conda`](https://www.anaconda.com/download#downloads).
 2. 🔑 You will need an API key from OpenAI or Google. You can create one for free here:
     - [OpenAI](https://platform.openai.com/account/api-keys) - to use models like GPT4o-Mini
-    - [Google](https://ai.google.dev/) - to use models like Gemini
+    - [Google](https://ai.google.dev/) - to use models like Gemini Flash 1.5
 
 ### Dev Environment Setup
 1. Set up your API keys in a file called `.env` (see `.env.example` for an example)
