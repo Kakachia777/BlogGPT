@@ -1,6 +1,8 @@
 # 🦜🔗✏️BlogGPT
 BlogGPT is a fully automated AI blog writer that uses LangChain and GPT type LLMs for topic selection and content generation.
 
+<p align="center"> <img src="BlogGPT.png" alt="BlogGPT"> </p>
+
 ## Usage
 ### Prerequisites
 1. 🐍 You will need a working install of [`conda`](https://www.anaconda.com/download#downloads).
